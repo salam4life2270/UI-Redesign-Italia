@@ -12,3 +12,9 @@ Scale/Visual hierarchy: The headers are bigger than the paragraph text to get at
 
 Use of typography: 
 Rule of odds: On the first page, I interchange the image and the texts to make it more appealling.
+
+
+
+Deliver a link to your Figma redesign in your description on GitHub
+
+https://www.figma.com/file/pQvApDagdmAsBOn0Q00p2s/UI-Redesign-Italia?node-id=0%3A1
